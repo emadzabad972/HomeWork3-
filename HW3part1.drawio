@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.10">
+  <diagram name="Page-1" id="fjiqVhB-1ZFYpQL12mDG">
+    <mxGraphModel dx="1042" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-1" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-2" target="IoxgDRRb8mEvADH8VKbI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-2" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-3" target="IoxgDRRb8mEvADH8VKbI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-3" value="id: int&amp;nbsp;&lt;div&gt;whats your id number?&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="150" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-5" target="IoxgDRRb8mEvADH8VKbI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-5" value="f_name: str&lt;div&gt;whats your first name?&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="290" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-6" target="IoxgDRRb8mEvADH8VKbI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-6" value="l_name: str&lt;div&gt;whats your last name?&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="420" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-11" target="IoxgDRRb8mEvADH8VKbI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-11" value="print(f&quot;{....}&quot;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-14" target="IoxgDRRb8mEvADH8VKbI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-14" value="height: float&amp;nbsp;&lt;div&gt;whats your height?&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="560" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IoxgDRRb8mEvADH8VKbI-16" target="IoxgDRRb8mEvADH8VKbI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IoxgDRRb8mEvADH8VKbI-16" value="weight: int&amp;nbsp;&lt;div&gt;whats your wright?&amp;nbsp;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="700" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
